@@ -1,1 +1,1 @@
-http://jeanemota.github.io
+jeanemota.github.io
